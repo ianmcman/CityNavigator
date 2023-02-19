@@ -4,10 +4,10 @@
     "slug": "CityNavigation",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./images/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./images/icon.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
